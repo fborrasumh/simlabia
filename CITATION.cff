@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo con estos metadatos."
+title: "SimLabIA"
+type: software
+authors:
+  - family-names: "Borrás Rocher"
+    given-names: "Fernando"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5519-4573"
+  - family-names: "Compañ Rosique"
+    given-names: "Antonio F."
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-8166-396X"
+  - family-names: "Rodríguez Vidal"
+    given-names: "Juan Carlos"
+    affiliation: "Centro Experimental CYBORG, Universidad Miguel Hernández de Elche"
+doi: "10.5281/zenodo.23724654"
+version: "1.0.0"
+date-released: "2026-10-28"
+url: "https://fborrasumh.github.io/simlabia/"
+repository-code: "https://github.com/fborrasumh/simlabia"
+license: MIT
